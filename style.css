@@ -1,0 +1,89 @@
+
+*.container{
+    width: 100%;
+    margin: 0 auto;
+    border: 2px solid;
+}
+.card-row{
+    width: 90%;
+    margin: auto;
+    border:2px solid;
+    display: flex;
+}
+
+
+.card-col2{
+    width: 50%;
+    display: flex;
+    
+}
+.card-col2 button{
+    padding: 10px 30px;
+    border: 2px solid;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.card-col2 button:hover{background-color: rgb(197, 51, 153);color: white;}
+.sub{ padding-bottom: 20px;}
+.sub img:hover{border: 2px solid; border-color: rgb(151, 41, 124);}
+.btn{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-col3{
+    width: 50%;
+   
+}
+
+#card{
+    display: flex;
+    padding-top: 10px;
+}
+.card-col3 button{
+    padding:5px 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    color:rgb(177, 24, 182);
+    border-color: rgb(177, 24, 182);
+}
+.card-img{
+    text-align: center;
+}
+
+.card b {
+    font-size: 30px;
+}
+.rate{
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(32, 194, 86);
+    width: 43px;
+    height: 20px;
+    border: 1px solid;
+}
+.rating{
+    display: flex;
+}
+.card-col3 .card #icon{
+    padding-right: 20px;
+}
+.card-col3 .card span{
+    padding-right: 70px;
+}
+.ra{
+    padding-right: 15px;
+}
+.followet{
+    padding-right: 15px;
+}
+.sub{
+    width: 10%;
+    display: flex;
+}
+.sub img{
+    width: 100%;
+    padding: 1px;
+}
+
